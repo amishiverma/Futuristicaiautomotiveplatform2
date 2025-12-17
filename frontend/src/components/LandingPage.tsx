@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from './common/ImageWithFallback';
 import { Button } from './ui/button';
 import { Card } from './ui/card';
 import { AgentNode } from './AgentNode';
